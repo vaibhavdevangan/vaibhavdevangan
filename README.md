@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Vaibhav Dewangan
 
 # 💫 About Me:
 I’m an Electronics & Telecommunication (ENTC) engineering student with a growing focus on data analysis and analytical problem-solving. I enjoy working with numbers, patterns, and logic, especially when data comes from real-world systems.<br><br>🌱 I’m currently learning:<br>Python for Data Analysis (Pandas, NumPy, Matplotlib), basic statistics, and working with real-world datasets (CSV / sensor data).<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly data analysis projects, exploratory data analysis (EDA), and projects involving real or IoT-generated datasets.<br><br>🤝 I’m looking for help with:<br>Improving my analytical thinking, choosing the right metrics, and learning how to present insights clearly from data.<br><br>🔭 In the long term, I aim to build a career:<br>In data-focused roles where I can analyze real-world data, generate insights, and support decision-making—especially in engineering or system-driven domains.<br><br>⚡ Fun fact: I drink coffee more for focus than for taste ☕
